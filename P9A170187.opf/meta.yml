@@ -1,0 +1,31 @@
+id: P9A170187
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1CZ2413
+  instance_id: http://purl.bdrc.io/resource/IE1CZ2413
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    zh-latn-pinyin-x-ndia:
+    - na tang si jian jie
+    bo:
+    - སྣར་ཐང་ཆོས་སྡེའི་ལོ་རྒྱུས།
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    14a9cdbdfe324952a5aa659593e75182:
+      title: པོད ༡་སྣར་ཐང་ཆོས་སྡེའི་ལོ་རྒྱུས
+      volume_number: 1
+      base_file: UT1CZ2413_I1CZ2464_0000.txt
+      reference: http://purl.bdrc.io/resource/VLFF0AA8B5DB744707
+      image_group: I1CZ2464
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1CZ2413
+  - http://purl.bdrc.io/resource/W1CZ2413
+  ocr_software: Namsel
+created_at: '2021-12-22T10:25:17.227436'
+last_modified_at: '2021-12-22T10:25:17.227443'
